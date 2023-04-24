@@ -1,0 +1,5 @@
+tk==0.1.0
+SpeechRecognition==3.9.0
+PyAudio==0.2.12
+pygame==2.1.2
+pytest==7.2.0
